@@ -4,6 +4,11 @@
 - React Frontend Engineer at [Swaarm Gmbh](https://swaarm.com/)
 - Flutter Frontend Engineer at [Storysurf](https://storysurf.app)
 
+## Motion Graphics Work
+- [Simple after effects animations.](http://bluepillredpaint.com/?p=427)
+- [Logo Animataion](http://bluepillredpaint.com/?p=459)
+- [whole portfolio](http://bluepillredpaint.com)
+
 ## Portfolio Projects
 
 | Repository | Live App | Description |
