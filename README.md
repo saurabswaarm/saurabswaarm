@@ -5,6 +5,7 @@
 - Flutter Frontend Engineer at [Storysurf](https://storysurf.app)
 
 ## Motion Graphics Work
+- [Music video](https://www.youtube.com/watch?v=hhaZ18C7YaU)
 - [Simple after effects animations.](http://bluepillredpaint.com/?p=427)
 - [Logo Animataion](http://bluepillredpaint.com/?p=459)
 - [whole portfolio](http://bluepillredpaint.com)
