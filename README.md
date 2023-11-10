@@ -1,14 +1,11 @@
-# Hi there 👋 , I'm a frontend engineer with a keen eye for **Product Design** and heart for **User Research**. Check me out at [my website](https://saurabswaarm.github.io) or view my [motiongraphics work](http://bluepillredpaint.com)
+# Hi there 👋 , I'm a frontend engineer with a keen eye for **Product Design** and heart for **User Research**. Check me out at [my website](https://saurabswaarm.github.io)
 
 ## Job Experience
 - React Frontend Engineer at [Swaarm Gmbh](https://swaarm.com/)
 - Flutter Frontend Engineer at [Storysurf](https://storysurf.app)
 
-## Motion Graphics Work
+Here's a hobby music video project
 - [Music video](https://www.youtube.com/watch?v=hhaZ18C7YaU)
-- [Simple after effects animations.](http://bluepillredpaint.com/?p=427)
-- [Logo Animataion](http://bluepillredpaint.com/?p=459)
-- [whole portfolio](http://bluepillredpaint.com)
 
 ## Portfolio Projects
 
