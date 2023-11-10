@@ -1,4 +1,6 @@
-# Hi there 👋 , I'm a frontend engineer with a keen eye for **Product Design** and heart for **User Research**. Check me out at [my website](https://saurabswaarm.github.io)
+# Hi there 👋 , I'm a frontend engineer with a keen eye for **Product Design** and heart for **User Research**. 
+
+## Check me out at [my website](https://saurabswaarm.github.io)
 
 ## Job Experience
 - React Frontend Engineer at [Swaarm Gmbh](https://swaarm.com/)
