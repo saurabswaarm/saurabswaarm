@@ -27,6 +27,7 @@ Here's a hobby music video project
 
 - Ask gpt about local repo, https://medium.com/@neviogomez91/analyze-your-code-with-a-local-gpt-model-using-langchain-chroma-dd869d3fcdfa
 - https://medium.com/@yulemoon/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792
+- GPT4all https://gpt4all.io/index.html
 
 ## Portfolio Projects
 
