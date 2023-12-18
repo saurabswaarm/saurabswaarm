@@ -19,6 +19,8 @@ Here's a hobby music video project
 - https://www.langchain.com
 - https://huggingface.co/blog/agents-js
 - GPT4ALL https://github.com/plasma-umass/ChatDBG
+- Read Local documents https://github.com/PromtEngineer/localGPT
+- Read Local Documents https://github.com/imartinez/privateGPT
 
 
 ## Autonomous Agents
