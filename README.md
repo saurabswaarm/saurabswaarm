@@ -18,6 +18,7 @@ Here's a hobby music video project
 - https://github.com/continuedev/continue AI Ide assistant
 - https://www.langchain.com
 - https://huggingface.co/blog/agents-js
+- GPT4ALL https://github.com/plasma-umass/ChatDBG
 
 
 ## Autonomous Agents
