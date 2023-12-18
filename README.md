@@ -10,6 +10,20 @@
 Here's a hobby music video project
 - [Music video](https://www.youtube.com/watch?v=hhaZ18C7YaU)
 
+## Interesting Repos
+
+- https://github.com/plasma-umass : LLM assisted analysis of compile time errors
+- https://localai.io : Run models locally, using the open AI spec
+- https://github.com/jmorganca/ollama OLLAMA
+- https://github.com/continuedev/continue AI Ide assistant
+- https://www.langchain.com
+- https://huggingface.co/blog/agents-js
+
+
+## Autonomous Agents
+
+- https://medium.com/@yulemoon/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792
+
 ## Portfolio Projects
 
 | Repository | Live App | Description |
