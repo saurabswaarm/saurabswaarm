@@ -10,10 +10,11 @@
 Here's a hobby music video project
 - [Music video](https://www.youtube.com/watch?v=hhaZ18C7YaU)
 
-- https://github.com/poteto/hiring-without-whiteboards
+
 
 ## Interesting Repos
 
+- https://github.com/poteto/hiring-without-whiteboards
 - https://github.com/plasma-umass : LLM assisted analysis of compile time errors
 - https://localai.io : Run models locally, using the open AI spec
 - https://github.com/jmorganca/ollama OLLAMA
