@@ -8,8 +8,8 @@
 - React Frontend Engineer at [Swaarm Gmbh](https://swaarm.com/)
 - Flutter Frontend Engineer at [Storysurf](https://storysurf.app)
 
-Here's a hobby music video project
-- [Music video](https://www.youtube.com/watch?v=hhaZ18C7YaU)
+
+😊 [Here's a hobby music video project](https://www.youtube.com/watch?v=hhaZ18C7YaU)
 
 
 
@@ -32,16 +32,6 @@ Here's a hobby music video project
 - Ask gpt about local repo, https://medium.com/@neviogomez91/analyze-your-code-with-a-local-gpt-model-using-langchain-chroma-dd869d3fcdfa
 - https://medium.com/@yulemoon/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792
 - GPT4all https://gpt4all.io/index.html
-
-## Portfolio Projects
-
-| Repository | Live App | Description |
-|------------|----------|-------------|
-| [Spacex Launch Details](https://github.com/saurabsalhotra/spacex) | [Link](https://saurab-spacex.netlify.app/) | Using the spaceX graphql api to display launch data and allow for comparing any two launches |
-|[Trello Clone using Typescript](https://github.com/saurabsalhotra/typescript-trello-type-app) | [Link](https://saurab-trellotypescript.netlify.app/) | A basic trello like board built using Typescript |
-| [Firebase chat app](https://github.com/saurabsalhotra/flutter-firebase-chat-app) | not hosted | A simple flutter chat app that uses Firebases Realtime database |
-|[Nodejs without any libraries](https://github.com/saurabsalhotra/nodejs-without-any-libraries) | not hosted | An entire server was built using the inbuilt node.js API and no external libraries. |
-| [Todo List](https://github.com/saurabsalhotra/simple-react-redux-router-todolist) | [Link](https://saurab-simpletodolist.netlify.app/) | A simple todo list app created using React and Redux |
 
 <br>
 
