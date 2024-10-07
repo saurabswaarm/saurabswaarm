@@ -5,11 +5,6 @@
 ## Job Experience
 - Senior Software Engineer at [Saama](https://saama.com)
 - Senior Software Engineer at [Neosoft](https://www.neosofttech.com/)
-- React Frontend Engineer at [Swaarm Gmbh](https://swaarm.com/)
-- Flutter Frontend Engineer at [Storysurf](https://storysurf.app)
-
-
-😊 [Here's a hobby music video project](https://www.youtube.com/watch?v=hhaZ18C7YaU)
 
 <br>
 
