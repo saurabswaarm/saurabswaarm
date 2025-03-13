@@ -4,8 +4,11 @@
 
 ## Current Profile
 - Senior Software Engineer at [Saama](https://saama.com)
-- Senior Software Engineer at [Neosoft](https://www.neosofttech.com/)
 
+## Past Profile
+- Software Engineer at [Swaarm](https://www.swaarm.com/)
+- Software Engineer at [Storysurf](https://www.storysurf.com/)
+  
 ## My Stack
 
 ### Programming
