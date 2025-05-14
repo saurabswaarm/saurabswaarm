@@ -7,7 +7,7 @@
 
 ## Past Profile
 - Software Engineer at [Swaarm](https://www.swaarm.com/)
-- Software Engineer at [Storysurf](https://www.storysurf.app/)
+- Software Engineer at [Storysurf](https://www.storysurf.app/read)
   
 ## My Stack
 
