@@ -1,7 +1,8 @@
-# Hi there 👋 , I'm a fullstack engineer with a keen eye for **Product Design** and heart for **User Research**. 
+# Hi there 👋 , I'm a Fullstack Engineer with a keen eye for **Product Design** and heart for **User Research**. 
 
 ## Current Profile
 - Senior Software Engineer at [Saama](https://saama.com) ,( Chennai / Pune )
+
   - [Biometrics Research and Analysis](https://www.saama.com/platform/products/biometrics-research-and-analysis-information-network-brain/)
   - [DocGenAI](https://www.saama.com/platform/products/ai-powered-document-generator/)
 
