@@ -1,14 +1,12 @@
 # Hi there 👋 , I'm a fullstack engineer with a keen eye for **Product Design** and heart for **User Research**. 
 
-## Check me out at [my website](https://saurabswaarm.github.io)
-
 ## Current Profile
-- Senior Software Engineer at [Saama](https://saama.com) , Chennai / Pune
+- Senior Software Engineer at [Saama](https://saama.com) ,( Chennai / Pune )
 
 ## Past Profile
-- Software Engineer at [Swaarm](https://www.swaarm.com/) , Berlin
-- Senior Software Engineer at [Neosoft](https://www.neosofttech.com/) , Mumbai / Delhi
-- Software Engineer at [Storysurf](https://www.storysurf.app/read) , Mumbai
+- Software Engineer at [Swaarm](https://www.swaarm.com/) ,( Berlin )
+- Senior Software Engineer at [Neosoft](https://www.neosofttech.com/) ,( Mumbai / Delhi )
+- Software Engineer at [Storysurf](https://www.storysurf.app/read) ,( Mumbai )
   
 ## My Stack
 
