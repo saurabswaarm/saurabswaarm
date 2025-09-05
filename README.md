@@ -2,6 +2,8 @@
 
 ## Current Profile
 - Senior Software Engineer at [Saama](https://saama.com) ,( Chennai / Pune )
+  - [Biometrics Research and Analysis](https://www.saama.com/platform/products/biometrics-research-and-analysis-information-network-brain/)
+  - [DocGenAI](https://www.saama.com/platform/products/ai-powered-document-generator/)
 
 ## Past Profile
 - Software Engineer at [Swaarm](https://www.swaarm.com/) ,( Berlin )
