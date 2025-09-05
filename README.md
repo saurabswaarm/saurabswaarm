@@ -3,11 +3,12 @@
 ## Check me out at [my website](https://saurabswaarm.github.io)
 
 ## Current Profile
-- Senior Software Engineer at [Saama](https://saama.com)
+- Senior Software Engineer at [Saama](https://saama.com) , Chennai / Pune
 
 ## Past Profile
-- Software Engineer at [Swaarm](https://www.swaarm.com/)
-- Software Engineer at [Storysurf](https://www.storysurf.app/read)
+- Software Engineer at [Swaarm](https://www.swaarm.com/) , Berlin
+- Senior Software Engineer at [Neosoft](https://www.neosofttech.com/) , Mumbai / Delhi
+- Software Engineer at [Storysurf](https://www.storysurf.app/read) , Mumbai
   
 ## My Stack
 
